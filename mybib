@@ -1,0 +1,125 @@
+@article{halawa2017pod,
+  title={POD \& MLSM Application on DU96-W180 Wind Turbine Airfoil},
+  author={Halawa, Amr M and Elhadidi, Basman and Yoshida, Shigeo},
+  journal={Evergreen: joint journal of Novel Carbon Resource Sciences \& Green Asia Strategy},
+  volume={4},
+  number={1},
+  pages={36--43},
+  year={2017},
+  publisher={Green Asia Education Center}
+}
+
+@article{dief2017system,
+  title={System Identification, Fuzzy Control, and Simulation Results for Fixed Length Tether of Kite Power System},
+  author={Dief, Tarek N and Fechner, Uwe and Schmehl, Roland and Yoshida, Shigeo and Ismaiel, Amr MM and Halawa, Amr M},
+  year={2017},
+  publisher={Wind Energy Science Discussions}
+}
+
+@article{halawa2018aerodynamic,
+  title={Aerodynamic performance enhancement using active flow control on DU96-W-180 wind turbine airfoil},
+  author={Halawa, Amr M and Elhadidi, Basman and Yoshida, Shigeo},
+  journal={Evergreen},
+  volume={5},
+  number={1},
+  pages={16--24},
+  year={2018},
+  publisher={Novel Carbon Resource Sciences}
+}
+
+@article{dief2018system,
+  title={System identification, fuzzy control and simulation of a kite power system with fixed tether length},
+  author={Dief, Tarek N and Fechner, Uwe and Schmehl, Roland and Yoshida, Shigeo and Ismaiel, Amr MM and Halawa, Amr M},
+  journal={Wind Energy Science},
+  volume={3},
+  number={1},
+  pages={275--291},
+  year={2018},
+  publisher={Copernicus GmbH}
+}
+
+@inproceedings{halawa2018numerical,
+  title={Numerical Fluid-Structure Interaction Study on the NREL 5MW HAWT},
+  author={Halawa, Amr M and Sessarego, Matias and Shen, Wen Z and Yoshida, Shigeo},
+  booktitle={Journal of Physics: Conference Series},
+  volume={1037},
+  number={2},
+  pages={022026},
+  year={2018},
+  organization={IOP Publishing}
+}
+
+@article{halawa2016pod,
+  title={POD \& MLSM Application on DU96-W180 Wind Turbine Airfoil},
+  author={Halawa, Amr M and Elhadidi, Basman and Yoshida, Shigeo},
+  year={2016},
+  publisher={Interdisciplinary Graduate School of Engineering Sciences, Kyushu University}
+}
+
+@inproceedings{halawa2018fluid,
+  title={FLUID-STRUCTURE INTERACTION COMPUTATIONS FOR WIND TURBINE BLADE},
+  author={Halawa, Amr M and Yoshida, Shigeo and Ismaiel, Amr MM},
+  booktitle={Grand Renewable Energy proceedings Japan council for Renewable Energy (2018)},
+  pages={179},
+  year={2018},
+  organization={Japan Council for Renewable Energy}
+}
+
+@article{halawanrel,
+  title={NREL 5MW HAWT},
+  author={Halawa, Amr M and Sessarego, Matias and Shen, Wen Z and Yoshida, Shigeo}
+}
+
+@article{dief2019hardware,
+  title={Hardware-in-the-Loop (HIL) and System Identification of a Pumping Kite Power System},
+  author={Dief, Tarek N and Rushdi, Mostafa A and Halawa, Amr M and Yoshida, Shigeo},
+  year={2019}
+}
+
+@inproceedings{dief2020hardware,
+  title={Hardware-in-the-Loop (HIL) and Experimental Findings for the 7 kW Pumping Kite Power System},
+  author={Dief, Tarek N and Rushdi, Mostafa and Halawa, Amr and Yoshida, Shigeo},
+  booktitle={AIAA Scitech 2020 Forum},
+  pages={1244},
+  year={2020}
+}
+
+@article{rushdi2020power,
+  title={Power prediction of airborne wind energy systems using multivariate machine learning},
+  author={Rushdi, Mostafa A and Rushdi, Ahmad A and Dief, Tarek N and Halawa, Amr M and Yoshida, Shigeo and Schmehl, Roland},
+  journal={Energies},
+  volume={13},
+  number={9},
+  pages={2367},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@inproceedings{halawa2020validation,
+  title={Validation Study of Multi-Rotor Systems Using Two Shrouded Wind Turbines},
+  author={Halawa, Amr M and Uchida, Takanori and Watanabe, Koichi and Ohya, Yuji},
+  booktitle={Journal of Physics: Conference Series},
+  volume={1618},
+  number={3},
+  pages={032017},
+  year={2020},
+  organization={IOP Publishing}
+}
+
+@inproceedings{halawa2019aeroelastic,
+  title={Aeroelastic CFD-FEM Study of a Kite for Power Generation},
+  author={Halawa, Amr M. and Yoshida, Shigeo and Dief, Tarek and Rushdi, Mostafa A.},
+  booktitle={Wind Energy Science Conference (WESC 2019), Cork, Ireland},
+  year={2019}
+}
+
+@article{rushdi2020system,
+  title={System identification of a 6 m2 kite power system in fixed-tether length operation},
+  author={Rushdi, Mostafa A and Dief, Tarek N and Halawa, Amr M and Yoshida, Shigeo},
+  journal={International Review of Aerospace Engineering},
+  volume={13},
+  number={4},
+  pages={150--158},
+  year={2020},
+  publisher={Praise Worthy Prize}
+}
